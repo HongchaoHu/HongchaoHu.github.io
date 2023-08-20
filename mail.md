@@ -1,8 +1,8 @@
-## School Email: 
-hohu@ucsd.edu <br>
+## School Email:
+[Email me at UCSD](mailto:hohu@ucsd.edu)
 
 ## Personal Email
-hj152526@icloud.com <br>
+[Email me personally](mailto:hj152526@icloud.com)
 
 ## Phone:
 +1 (224) 600-6852
