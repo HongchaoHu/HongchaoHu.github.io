@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "About Me"}
-  - {url: "https://hongchaohu.github.io/Hongchao_Hu_Resume.pdf", title: "CV"}
-  - {file: "project.md", title: "Project"}
+  - {file: "README.md", icon: home, title: "About Me"}
+  - {url: "https://hongchaohu.github.io/Hongchao_Hu_Resume.pdf", icon: address-card, title: "CV"}
+  - {file: "project.md", icon: diagram-project, title: "Project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "hohu@ucsd.edu"}
