@@ -16,7 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", icon: home, title: "About Me"}
+  - {file: "index.html", icon: home, title: "Home"}
+  - {file: "README.md", icon: info, title: "About Me"}
   - {url: "https://hongchaohu.github.io/Hongchao_Hu_Resume.pdf", icon: address-card, title: "CV"}
   - {file: "project.md", icon: diagram-project, title: "Project"}
 
