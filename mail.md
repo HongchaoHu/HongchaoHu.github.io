@@ -1,4 +1,3 @@
-## Contact Me
 ### School Email:
 hohu@ucsd.edu
 
