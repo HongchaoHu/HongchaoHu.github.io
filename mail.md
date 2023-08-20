@@ -1,8 +1,8 @@
 # Email
 
-hohu@ucsd.edu (school)
+[hohu@ucsd.edu](mailto:hohu@ucsd.edu)
 
-hj152526@icloud.com (Personal)
+[hj152526@icloud.com](hj152526@icloud.com)
 
 <br>
 <br>
