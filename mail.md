@@ -1,10 +1,10 @@
-## Email
+# Email
 
-## School Email:
+### School Email:
 hohu@ucsd.edu
 
-## Personal Email
+### Personal Email
 hj152526@icloud.com
 
-## Phone:
+# Phone:
 +1 (224) 600-6852
