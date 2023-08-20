@@ -1,4 +1,4 @@
-title: "Hongchao Hu"
+title: "Home"
 author: "Jason (Hongchao) Hu"
 description: "University of California San Diego 2024 Graduate"
 permalink: /:title/
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "hohu@ucsd.edu"}
   - {title: Github, icon: github, url: "https://github.com/HongchaoHu"}
-  - {title: LinkedIn, icon: address-card, url: "www.linkedin.com/in/hohu"}
+  - {title: LinkedIn, icon: address-card, url: "https://www.linkedin.com/in/hohu/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
