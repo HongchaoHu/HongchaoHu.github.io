@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home, title: "Home"}
   - {file: "README.md", icon: info, title: "About Me"}
   - {url: "https://hongchaohu.github.io/Hongchao_Hu_Resume.pdf", icon: address-card, title: "CV"}
-  - {file: "project.md", icon: diagram-project, title: "Project"}
+  - {file: "project.md", title: "Project", icon: "folder"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "hohu@ucsd.edu"}
