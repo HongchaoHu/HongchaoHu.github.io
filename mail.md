@@ -1,8 +1,8 @@
 # Email
 
-hohu@ucsd.edu
+hohu@ucsd.edu (school)
 
-hj152526@icloud.com
+hj152526@icloud.com (Personal)
 
 <br>
 <br>
