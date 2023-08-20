@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "project.md", icon: folder, title: "Project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "hohu@ucsd.edu"}
+  - {title: Mail, icon: envelope, file: "mail.md"}
   - {title: Github, icon: github, url: "https://github.com/HongchaoHu"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/hohu/"}
 
