@@ -10,11 +10,6 @@ categories: media
 
 ## MathJax
 
-I am a passionate software engineer and data analyst with expertise in full-stack development, neural network design, and game development. <br>
-<br>
-From leveraging advanced skills in languages like Java, C++, and Python to implementing real-time data analytics, my work represents a commitment to quality, efficiency, and innovation. Whether it's boosting data processing efficiency or creating immersive video game experiences, my projects reflect a dedication to pushing boundaries. <br>
-Explore my site to discover my professional experiences, academic endeavor, and personal projects that showcase my capabilities. Feel free to connect with me on LinkedIn or drop me a message to learn more about what I can offer.
-
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
