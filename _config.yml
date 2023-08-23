@@ -1,4 +1,4 @@
-title: "Home"
+title: "Hongchao Hu's Website"
 author: "Jason (Hongchao) Hu"
 description: "University of California San Diego 2024 Graduate"
 permalink: /:title/
@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
