@@ -1,0 +1,23 @@
+### Neural Network Project Overview
+
+#### Technologies: Python, Linear Algebra, MySQL
+#### Framework: PyTorch
+
+In today’s data-driven world, leveraging the power of neural networks to make precise predictions is crucial. I had the opportunity to contribute to a fascinating project that combined machine learning, database management, and collaboration with various teams to enhance a neural network's performance.
+
+#### 1. **Model Training and Validation using Graph Algorithm and PyTorch**
+Utilizing the robust **PyTorch framework**, I harnessed the power of Graph Algorithms to train and validate a neural network model. By methodically working through multiple iterations and fine-tuning the model, I was able to gain an understanding of how subtle changes can lead to more accurate predictions.
+
+#### 2. **Advanced Hyperparameter Tuning**
+A critical aspect of this project was the implementation of **advanced hyperparameter tuning techniques**. By optimizing various hyperparameters, I achieved a **15% improvement in prediction accuracy** over the baseline models. This process required a deep understanding of the underlying algorithms and a willingness to experiment with various configurations to find the best fit.
+
+#### 3. **Co-designing a Database Management System with MySQL**
+To support the neural network, I co-designed a **Database Management System (DBMS) using MySQL**. This system efficiently stored and encoded the analyzed data, ensuring that information was readily available for further analysis and real-time decision-making.
+
+#### 4. **Collaboration with Cross-Functional Teams**
+The integration of the neural network into a larger system was a complex process requiring **strong collaboration with cross-functional teams**. I worked closely with other experts to ensure seamless functionality and ongoing support, adapting the model to ever-changing data trends and business requirements.
+
+### Conclusion
+This project allowed me to apply my expertise in machine learning, database management, and teamwork in a real-world setting. The success of the neural network in improving prediction accuracy, along with the **efficient handling of data and cross-team collaboration**, has further fueled my passion for technological innovation.
+
+Please feel free to [contact me](mailto:hohu@ucsd.edu) if you would like to learn more about this exciting project or if you have any inquiries related to my skills and experience.
