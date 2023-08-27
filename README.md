@@ -39,7 +39,7 @@ As a Network System Administrator Assistant. My primary goal at CTC was codesign
 
 ## Interests
 
-- One perk of studying at UC San Diego is how close the campus is to the beach. During my time in San Diego, I learned two of my favorite sports: ***Surfing and Scuba Diving***. One of the most relaxing things after all days of coding is to jump into the ocean surf under the sunset or dive with sea lions.
+- One perk of studying at UC San Diego is how close the campus is to the beach. During my time in San Diego, I learned two of my favorite sports: ***Surfing and Scuba Diving***. One of the most relaxing things after all days of coding is to jump into the ocean surf under the sunset or dive with sea lions. [Check out my Instagram](https://instagram.com/hhcjason?igshid=OGQ5ZDc2ODk2ZA==).
   
 - Music was a major part of my life when growing up. I started playing the violin when I was five and picked up guitar training when I was 14. I was the deputy chief in my high school Wheaton Academy orchestra, and it helped me accumulate tons of experience in classical music theory and leadership skills.
   ![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/violuin.jpg?raw=true)
