@@ -47,5 +47,8 @@ As a Network System Administrator Assistant. My primary goal at CTC was codesign
 
 ## My Life
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/myself.jpg?raw=true) ![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/hoihu.jpg?raw=true)
 
+![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/surf.jpg?raw=true) ![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/scccuuubaaaa.jpg?raw=true)
+
+![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/violuin.jpg?raw=true) ![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/guita.jpg?raw=true)
