@@ -1,7 +1,11 @@
+
+
 # Email
 
+School:
 [hohu@ucsd.edu](mailto:hohu@ucsd.edu)
 
+Personal:
 [hj152526@icloud.com](hj152526@icloud.com)
 
 <br>
