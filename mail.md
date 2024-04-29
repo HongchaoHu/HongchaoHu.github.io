@@ -2,7 +2,8 @@
 
 # Email
 
-Working:
+School/Working:
+<br>
 [hohu@ucsd.edu](mailto:hohu@ucsd.edu)
 <br>
 [hhu4@wpi.edu](mailto:hhu4@wpi.edu)
