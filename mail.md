@@ -2,11 +2,13 @@
 
 # Email
 
-School:
+Working:
 [hohu@ucsd.edu](mailto:hohu@ucsd.edu)
+[hhu4@wpi.edu](mailto:hhu4@wpi.edu)
+
 
 Personal:
-[hj152526@icloud.com](hj152526@icloud.com)
+[hj152526@icloud.com](mailto:hj152526@icloud.com)
 
 <br>
 <br>
