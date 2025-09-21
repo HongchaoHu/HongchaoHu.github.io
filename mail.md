@@ -1,6 +1,6 @@
+#Contact
 
-
-# Email
+## Email
 
 School/Working:
 <br>
@@ -10,12 +10,10 @@ School/Working:
 
 
 Personal:
-[hj152526@icloud.com](mailto:hj152526@icloud.com)
+[jason.hu168@outlook.com](mailto:jason.hu168@outlook.com)
 
 <br>
 <br>
 
-# Phone:
+## Phone:
 +1 (224) 600-6852
-
-+1 (858) 374-4812
