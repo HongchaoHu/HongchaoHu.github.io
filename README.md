@@ -74,7 +74,7 @@ At CTA, I started as a Data Entry Analyst and expanded into process optimization
 
 ## Interests
 
-- One of my favorite ways to recharge is being in the ocean. Living close to the coast in San Diego gave me the perfect opportunity to pick up two sports I now love deeply: ***Surfing and Scuba Diving***. There is something uniquely freeing about paddling out at sunset or descending beneath the surface to explore a completely different world—sea lions included. Both have taught me patience, presence, and a healthy respect for things that are bigger than you. [Check out my Instagram](https://instagram.com/hhcjason?igshid=OGQ5ZDc2ODk2ZA==).
+- One of my favorite ways to recharge is being in the ocean. Living close to the coast in San Diego gave me the perfect opportunity to pick up two sports I now love deeply: ***Surfing and Scuba Diving***. There is something uniquely freeing about paddling out at sunset or descending beneath the surface to explore a completely different world—sea lions included. Both have taught me patience and presence. [Check out my Instagram](https://instagram.com/hhcjason?igshid=OGQ5ZDc2ODk2ZA==).
   ![me](https://github.com/HongchaoHu/HongchaoHu.github.io/blob/master/assets/Diving.jpg?raw=true)
   
 - Music has been a constant thread throughout my life. I started playing the violin at age five, and by the time I reached high school I had added guitar as a second instrument. Serving as deputy chief of the Wheaton Academy orchestra was one of my most formative experiences—rehearsing complex pieces together, coordinating section dynamics, and performing in front of an audience reinforced lessons in discipline, collaboration, and leadership that I still carry into my professional work today.
