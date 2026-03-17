@@ -36,6 +36,11 @@ Across both programs, I have built a foundation in software, statistics, and bus
 
 ## Professional Experience
 
+- **Thaddeus Resource Center** (Jan 2025 – Present) <br>
+
+At Thaddeus Resource Center, I work as a Data Analyst and Business Analyst, supporting data-driven decision making and operational improvement across teams. I analyze performance and operational data to surface trends, gaps, and improvement opportunities, and build reporting views and dashboards to help teams monitor KPIs and measure the impact of process changes. I also contribute to business analysis efforts—partnering with stakeholders across operations, engineering, and leadership to clarify requirements, map end-to-end workflows, and document decisions and dependencies that keep delivery well-scoped and on track. <br>
+<br>
+
 - **Mega InfoTechs** (Jun 2024 – Jan 2025) <br>
 
 At Mega InfoTechs, I worked as a Data Analyst and Project Coordinator, connecting business requirements with technical execution. I documented BRDs/FSDs, aligned backlog priorities with growth targets, and supported cross-functional launch planning. I also performed exploratory analysis in Python to identify product usage inefficiencies that reduced operational costs by 2%, and built cohort analyses plus Tableau/Jupyter dashboards to track adoption and roadmap progress. <br>
